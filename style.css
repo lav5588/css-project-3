@@ -23,33 +23,40 @@ h1{
   
   
 }
-#sec-1{
+.sec{
     height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#sec-1{
+    
     
     background-image: url('murudeshwar.jpg');
-    background-attachment: fixed;
+   
     
     
     
     
 }
 #sec-2{
-    height: 100vh;
+   
 
     background-image: url('stock-photo.jpg');
-    background-attachment: fixed;
+   
 }
 #sec-3{
     
-    height: 100vh;
+    
     
     background-image: url('home-office.jpg');
-    background-attachment: fixed;
+    
 }
 #sec-4{
-    height: 100vh;
+    
     background-image: url('laptop.jpg');
-    background-attachment: fixed;
+   
 }
 
 #text-2{
